@@ -1,0 +1,29 @@
+body {
+  background-color:#ddd;
+}
+
+.main--wrap {
+  background-color: #dfd;
+}
+
+main h1 {
+  color:#f00;
+  font-size:32px;
+}
+
+.sidebar--wrap {
+  background-color: #ddf;
+}
+
+
+.sidebar--wrap h1 {
+  color:#0f0;
+  font-size:18px;
+}
+
+
+
+.copy--wrap {
+  font-size:12px;
+  background-color:#fdd;
+}
